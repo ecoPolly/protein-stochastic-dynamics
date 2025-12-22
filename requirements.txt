@@ -1,0 +1,17 @@
+# Scientific Computing & Data Analysis
+numpy
+scipy
+pandas
+
+# Machine Learning & Stochastic Analysis
+scikit-learn
+hmmlearn
+
+# Data Visualization
+matplotlib
+
+# Graphical User Interface (GUI)
+PyQt5
+
+# Notebook Integration
+ipython
